@@ -47,6 +47,6 @@
 
 <h3 data-importer="text" align="left">🔥   My Stats : trabajo en equipo<br>responsable, entusiasta de la programación</h3>
 
-<p data-importer="text" align="left">Algunas paginas web creadas por mi:<br><br>www.areaverde.com.ve<br><br>www.ca-supplyandinvestmentinc.com</p>
+<p data-importer="text" align="left">Ver diseños web en vivo:<br><br>www.areaverde.com.ve<br><br>www.ca-supplyandinvestmentinc.com</p>
 
 
