@@ -2,7 +2,7 @@
   <img data-importer="image" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
-
+<p center>Mis redes sociales</p>
 
 <div data-importer="socials" align="center">
   <a href="www.linkedin.com/in/samuel-perez-barrios-9b26a5143" target="_blank">
